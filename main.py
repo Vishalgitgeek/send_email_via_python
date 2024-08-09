@@ -9,7 +9,7 @@ user_details = [[data['name'], data['email']] for index, data in data.iterrows()
 
 # this is sender's email and password
 my_email = "vishal05714902022@msijanakpuri.com"
-my_password = "ncmy dmew vxew qrdg"  # don't use your original password ,
+my_password = "XXXXX XXXXX XXXXX XXXXX"  # don't use your original password ,
 # instead goto my account and search "app password" and generate a password which you will be using here
 
 # opening mssg file where your mail is saved(in txt file)
