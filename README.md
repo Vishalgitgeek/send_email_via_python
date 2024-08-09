@@ -38,7 +38,8 @@ It's ideal for sending newsletters, announcements, or any bulk emails with custo
    python send_email.py
    ```
 
-### 6. **Usage**
+
+   
 ```markdown
 ## Usage
 1. Open the `send_email.py` file and modify the recipient list and message content as needed.
@@ -49,6 +50,14 @@ It's ideal for sending newsletters, announcements, or any bulk emails with custo
   inside main.py don't use your original email password ,instead goto your gmail/yahoo/hotmail and then to account setting
   search for app password and gererate a password from there and paste the password or assign the password to my_password variable
    ```
+
+## 6. Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork this repository.
+2. Create a branch: `git checkout -b feature/YourFeature`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/YourFeature`.
+5. Open a pull request.
 
 
 
